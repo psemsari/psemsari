@@ -8,4 +8,4 @@ I learned to code at [School 42](https://www.42.fr/) and started coding during m
 
 I plan to utilize **AI** and graphic technology, exploring web 🌐, mobile 📱, and cloud ☁️ platforms to accomplish my goals.
 
-![image](https://psemsari-card.vercel.app/api/top-langs/?username=psemsari&theme=blue-green&layout=compact) ![image](https://psemsari-card.vercel.app/api?username=psemsari&theme=blue-green) 
+![image](https://psemsari-card.vercel.app/api?username=psemsari&theme=blue-green) ![image](https://psemsari-card.vercel.app/api/top-langs/?username=psemsari&theme=blue-green&layout=compact)  
